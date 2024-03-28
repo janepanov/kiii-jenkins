@@ -1,1 +1,0 @@
-I pulled the Jenkinsfile from the dev branch. Now I'm making a change in the master branch and I don't expect an image push to docker-hub, because that's the way I configured it.
