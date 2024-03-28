@@ -1,0 +1,1 @@
+Currently our Jenkinsfile is configured to only detect changes made from the dev branch. This file is created from dev branch so we should get an image push to docker-hub.
